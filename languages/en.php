@@ -1298,7 +1298,7 @@ Please do not reply to this email.",
 /**
  * Miscellaneous
  */
-	'elgg:powered' => "Powered by Elgg",
+	'elgg:powered' => "Powered by Bruno",
 
 /**
  * Languages according to ISO 639-1 (with a couple of exceptions)
